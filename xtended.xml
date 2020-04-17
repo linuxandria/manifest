@@ -4,7 +4,7 @@
   <remote  name="github"
            fetch="https://github.com" />
 
-  <remote  name="xtended"
+  <remote  name="xtended-mutate"
            fetch="https://github.com/Project-Xtended-Mutate" 
            revision="refs/heads/xq" />
            
