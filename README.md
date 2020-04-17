@@ -10,7 +10,7 @@ Our goal is to tailor this project to the oneplus devices, with our insights to 
 To initialize your local repository, use this command:
 -----------------------------------------------------
 
-    repo init -u https://github.com/Project-Xtended-Mutate/manifest.git -b xq
+    repo init -u https://github.com/Xtended-Mutate/manifest.git -b xq
 
 To sync the repository, use this command:
 -----------------------------------------
