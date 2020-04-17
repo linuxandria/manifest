@@ -5,7 +5,7 @@
            fetch="https://github.com" />
 
   <remote  name="xtended"
-           fetch="https://github.com/Xtended" 
+           fetch="https://github.com/Xtended-mutate" 
            revision="refs/heads/xq" />
            
   <remote  name="Xtended-Devices"
