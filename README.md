@@ -1,9 +1,10 @@
 ![Project MSM-XTENDED](https://raw.githubusercontent.com/Project-Xtended/docs/master/template_Head.png)
 -------------------------------------------------------------------------------------------------------
 
-Project-Xtended:
+Project-Xtended-Mutant:
 ====================
-A ROM Based on AOSP, with features from almost all Custom ROMs available.
+This is a ROM based on MSM-Xtended. We thank the founders of this project for making this possible.
+Our goal is to tailor this project to the oneplus devices, with our insights to get the most out of the oneplus and to provide it with extra mods, etc.
 
 
 To initialize your local repository, use this command:
@@ -23,10 +24,3 @@ To Build, use following commands:
     lunch xtended_device-userdebug
     make xtended
 
-Apply for official maintainership [**HERE**](https://forms.gle/D9WPbBcbeVFiBMJb7)
-
----------------------------------------------------------------------------------------------------------
-
-Thread template refer [**HERE**](https://github.com/Project-Xtended/docs/blob/master/Thread_template.txt)
-
----------------------------------------------------------------------------------------------------------
