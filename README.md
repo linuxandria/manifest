@@ -1,5 +1,5 @@
-![Project MSM-XTENDED](https://raw.githubusercontent.com/Project-Xtended/docs/master/template_Head.png)
--------------------------------------------------------------------------------------------------------
+
+
 
 Project-Xtended-Mutant:
 ====================
