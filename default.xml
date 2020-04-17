@@ -795,6 +795,6 @@
 
   <!-- Xtended additions -->
   <include name="lineage.xml" />
-  <include name="xtended-mutate.xml" />
+  <include name="xtended.xml" />
 
 </manifest>
