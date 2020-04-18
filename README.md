@@ -3,7 +3,7 @@ mupload.nl/index/?ref=eyrqdcs' border='0' target='_blank'><img src='https://www.
 
 
 
-Xtended-Mutant:
+Xtended-Mutate:
 ====================
 This is a ROM based on MSM-Xtended. We thank the founders of this project for making this possible.
 Our goal is to tailor this project to the oneplus devices, with our insights to get the most out of the oneplus and to provide it with extra mods, etc.
