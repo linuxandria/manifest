@@ -46,7 +46,6 @@
 
     <!-- External repos -->
     <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="xtended" />
-    <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="xtended" />
     <project path="external/tinycompress" name="external_tinycompress" remote="xtended" />
 
     <!-- Framework Repos -->
